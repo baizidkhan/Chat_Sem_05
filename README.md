@@ -1,17 +1,7 @@
-<img src="/art/preview.png" style="width:100%;" />
+Description
+ProjectX is a directory that contains all the necessary files and resources for the ProjectX project. This project aims to [provide a brief description of the project's purpose or goals].
 
-This is a Laravel demo app for [Chatify](https://github.com/munafio/chatify).
-
-## Quick Start
-
--   Clone or download this repo and place it into your server.
--   `composer install `
--   `cp .env.example .env `
--   Create database and modify .env with your DB name and Pusher credentials.
--   `php artisan migrate --seed`
--   `php artisan key:generate`
--   `npm install && npm run dev`
--   `php artisan storage:link`
--   `php artisan serve`
-
-then choose a user from the database and login.
+# Website   : ProjectX
+# Semester  : 4th        
+# Institute : Chandgarh University
+# Department: Apex Institute Technology - AIT
